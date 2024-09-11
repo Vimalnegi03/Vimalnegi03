@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vimalengi2003@gmail.com**
 
-- ⚡ Fun fact **favorite superhero spiderman; wants to be a web devloper**
+- ⚡ Fun fact **My code doesn’t always work, but when it does, I have no idea why.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
