@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack web development learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **MERN, DSA using C++**
+- 🌱 I’m currently learning **MERN, DSA using C++...**
 
 - 💬 Ask me about **MERN,GSAP,C++**
 
