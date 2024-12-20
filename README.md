@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/Vimalnegi03" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.eoZPB2gfGH-1ckaL_JSZdwHaHg?w=182&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="vimal-negi-233882233" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vimal-negi-233882233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimal-negi-233882233" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vimalnegi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vimalnegi03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vimalnegi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimalnegi03" height="30" width="40" /></a>
