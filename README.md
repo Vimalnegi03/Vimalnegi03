@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN,GSAP,C++**
 
-- 📫 How to reach me **vimalengi2003@gmail.com**
+- 📫 How to reach me **vimalnegi2003@gmail.com**
 
 - ⚡ Fun fact **My code doesn’t always work, but when it does, I have no idea why.**
 
