@@ -139,3 +139,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalnegi03&show_icons=true&locale=en&theme=tokyonight" alt="vimalnegi03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalnegi03&&theme=tokyonight" alt="vimalnegi03" /></p>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Vimalnegi03&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
