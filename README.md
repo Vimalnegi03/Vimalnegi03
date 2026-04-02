@@ -18,7 +18,11 @@
 <a href="https://hashnode.com/@vimalnegi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vimalnegi03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vimalnegi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vimalnegi03" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalnegi03" alt="vimalnegi03" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=Vimalnegi03&theme=light&no-frame=true&margin-w=10" />
+  </a>
+</p>
 <h3>My favorite tools and technologies ⚙️</h3>
 
 > Tools and technologies that I have worked with and am interested in
@@ -134,9 +138,13 @@
 </table>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalnegi03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vimalnegi03" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vimalnegi03&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalnegi03&show_icons=true&locale=en&theme=tokyonight" alt="vimalnegi03" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vimalnegi03&show_icons=true&theme=tokyonight" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalnegi03&&theme=tokyonight" alt="vimalnegi03" /></p>
 
