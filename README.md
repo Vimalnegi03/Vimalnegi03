@@ -17,12 +17,15 @@
 
 - 📫 How to reach me **vimalnegi2003@gmail.com**
 
+- 🌐 Check out my **Portfolio** — [myportfolio-brown-nu-45.vercel.app](https://myportfolio-brown-nu-45.vercel.app/)
+
 - ⚡ Fun fact **My code doesn't always work, but when it does, I have no idea why.**
 
 <br clear="both"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://myportfolio-brown-nu-45.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="30" /></a>
   <a href="https://github.com/Vimalnegi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vimalnegi03" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/vimal-negi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimal-negi" height="30" width="40" /></a>
   <a href="https://hashnode.com/@vimalnegi03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vimalnegi03" height="30" width="40" /></a>
