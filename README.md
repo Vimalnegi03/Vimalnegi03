@@ -40,7 +40,7 @@
 
 ## 🗂️ Featured Projects
 
-<details open>
+<details>
 <summary><b>🍽️ Check Karo Bawe — AI-Powered QR Menu Platform</b></summary>
 <br/>
 
