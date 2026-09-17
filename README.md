@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Engineer @ Lend A Hand India · Full-Stack & AI Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=SDE+%40+Lend+A+Hand+India+%F0%9F%92%BC;Building+Full-Stack+%2B+AI+Products+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular+%7C+NestJS+%7C+.NET;Shipped+a+Security-Audited+Facial+Recognition+System+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=SDE+%40+Lend+A+Hand+India+%F0%9F%92%BC;Building+Full-Stack+%2B+AI+Products+%F0%9F%9A%80;React+%7C+Next.js+%7C+Angular+%7C+NestJS+%7C+.NET" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
